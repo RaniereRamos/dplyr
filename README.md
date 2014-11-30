@@ -172,3 +172,6 @@ Related approaches
 -   [Blaze](http://blaze.pydata.org)
 -   [|Stat](http://hcibib.org/perlman/stat/introman.html)
 -   [Pig](http://infolab.stanford.edu/~usriv/papers/pig-latin.pdf)
+
+
+*** Git & GitHub Learning
